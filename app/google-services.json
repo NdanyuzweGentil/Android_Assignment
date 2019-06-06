@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718673514919",
+    "firebase_url": "https://loginregisterapp-daab0.firebaseio.com",
+    "project_id": "loginregisterapp-daab0",
+    "storage_bucket": "loginregisterapp-daab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718673514919:android:90b9f31b568ece88",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718673514919-ghmsmtu3mnrsup0s4of3q0jgu5qvcnka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginregisterapp",
+            "certificate_hash": "35061fa85b2201715de34b31109957bccda160bd"
+          }
+        },
+        {
+          "client_id": "718673514919-aei1a8rtmf4eov1lhenflegrhvl2fm7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnUw-_eFHc36QdDtvO6cKBOtkPGlIa_G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718673514919-aei1a8rtmf4eov1lhenflegrhvl2fm7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
